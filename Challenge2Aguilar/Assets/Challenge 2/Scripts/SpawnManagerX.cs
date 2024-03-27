@@ -11,7 +11,7 @@ public class SpawnManagerX : MonoBehaviour
     private float spawnPosY = 30;
 
     private float startDelay = 1.0f;
-    private float spawnInterval = 4.5f;
+    private float spawnInterval = 4;
 
     public int ballIndex;
 
